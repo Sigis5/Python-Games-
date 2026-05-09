@@ -1,2 +1,2 @@
 # Python-Games-
-Here I create some simple python games.
+A simple Python game to practice logic and error handling.

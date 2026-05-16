@@ -1,5 +1,5 @@
 import random
-
+#Game
 def game():
     secret = random.randint(1, 100)
     attempts = 5

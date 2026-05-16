@@ -1,7 +1,7 @@
 import time
 import sys
 
-
+#Bank
 def bank():
     balance = 0    
     while True: 
